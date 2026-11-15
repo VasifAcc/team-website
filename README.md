@@ -1,2 +1,5 @@
 ﻿# Team Website
-A basic website built collaboratively with Git.
+
+## Front-End
+This part is built with HTML and CSS.
+Pages: Home, About, Contact.
