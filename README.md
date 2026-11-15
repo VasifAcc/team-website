@@ -1,2 +1,5 @@
 ﻿# Team Website
-A basic website built collaboratively with Git.
+
+## Back-End
+This part is built with Python and Flask.
+API: /students, /students/register.
